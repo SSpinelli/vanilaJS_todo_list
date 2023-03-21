@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  font-family: monospace;
+}
+
+.selecionado {
+  font-weight: bold;
+  text-decoration: line-through;
+}
